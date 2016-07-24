@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PersistenciaAndroid</string>
+    <string name="nombre_preferencia">MiPreferencias</string>
+</resources>
